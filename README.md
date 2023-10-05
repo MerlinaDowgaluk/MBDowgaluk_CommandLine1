@@ -12,5 +12,6 @@ Listado de principales comandos:
 - rmdir: elimina un directorio (no archivos).
 - cp: copiará un archivo completo y creará uno nuevo con el nombre que decidas que deba tener.
 - find: encuentra un archivo en el directorio dado y con las especificaciones dadas.
+- clear: "limpiar" la consola actual (es solo un desplazamiento, pero muy útil).
 
 Puedes encontrar más comandos y su uso **[aquí](https://www.hostinger.es/tutoriales/linux-comandos)**
